@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OpenSilverIphoneKeyboard/OpenSilverIphoneKeyboard.Browser/OpenSilverIphoneKeyboard.Browser.csproj" />
+  <Project Path="OpenSilverIphoneKeyboard/OpenSilverIphoneKeyboard.Simulator/OpenSilverIphoneKeyboard.Simulator.csproj" />
+  <Project Path="OpenSilverIphoneKeyboard/OpenSilverIphoneKeyboard/OpenSilverIphoneKeyboard.csproj" />
+</Solution>
